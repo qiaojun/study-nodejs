@@ -5,10 +5,6 @@ this is simple nodejs CRUD web application, which use jquery, jquery-datatable, 
 
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
-
-
 安装前提:
 
 node和npm已经安装,安装方法详见[nodejs和express](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/2)
@@ -36,3 +32,4 @@ node和npm已经安装,安装方法详见[nodejs和express](https://github.com/h
 
 - back-end: nodejs + express + node-mysql
 - front-end: bootstrap + jquery + jquery-datatable
+- IDE: WebStorm
