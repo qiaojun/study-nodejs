@@ -1,7 +1,7 @@
 study-nodejs
 ============
 
-This is simple nodejs CRUD web application, which use jquery, jquery-datatable, jade, node-mysql. haha
+This is simple nodejs CRUD web application, which use jquery, jquery-datatable, jade, node-mysql. haha22
 
 
 
