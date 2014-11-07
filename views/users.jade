@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  p #{title}
+      #messageZone(class="noprint")
+      a#del(role="button", class="btn btn-default iconfont") delete
+      #demo
+
+      script(src="/javascripts/userList.js")

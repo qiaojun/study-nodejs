@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  #messageZone(class="noprint")
+  #add(class="col-lg-9 col-md-9 col-sm-8 col-xs-7")
+      p Inputs user name and click Add User
+      label User Name:
+      input#username(type="text")
+      a#adduser(role="button", class="btn btn-default iconfont") Add User
+
+  script(src="/javascripts/addUser.js")
+
+
+
